@@ -8,7 +8,7 @@ import proj6 from '../assets/proj_6.png'
 
 const Work = () => {
   return (
-    <div class='mt-5 py-6 max-w-[1200px] mx-auto' id='projects'>
+    <div class='mt-5 py-6 max-w-[1200px] mx-auto ' id='projects'>
 
         <div class="mx-auto px-4 md:px-8">
             <div class="mb-4 flex items-center justify-between">
