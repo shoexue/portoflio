@@ -9,7 +9,7 @@ import { TypeAnimation } from 'react-type-animation'
 const Hero = () => {
   return (
     <div>
-      <div className='my-7 sm:my-0 max-w-[1500px] h-auto mx-auto flex flex-col 
+      <div className='my-7 sm:my-0 h-auto mx-auto flex flex-col 
                         reverse sm:flex-row justify-center align-center' id='home'
                         style={{
                             background: 'linear-gradient(to bottom, #fafff0, #9ACDDD)', // Example gradient
