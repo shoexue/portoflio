@@ -1,6 +1,5 @@
 import React from 'react'
 import aboutImg from "../assets/JHFTR.png"
-import monkeytype from "../assets/monkeytype.png"
 const About = () => {
   return (
     <div className='py-10 text-white bg-[#333337] h-auto' id='about'>
@@ -51,7 +50,7 @@ const About = () => {
                     </div>
 
                     <div className='bg-[#333333]/40 p-5 rounded-lg'>
-                        <a href={monkeytype}>
+                        <a href='https://monkeytype.com/profile/shoexue'>
                             <h3 className='md:text-4xl text-2xl font-semibold text-white'>200
                                 <span>+</span> 
                             </h3>
