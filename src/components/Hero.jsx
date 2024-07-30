@@ -1,5 +1,5 @@
 import React from 'react'
-import profilepic from '../assets/ship_4.png'
+import profilepic from '../assets/ship_4.svg'
 import cv from '../assets/Justin_Xue_CV.pdf'
 
 import {AiFillLinkedin, AiFillGithub} from 'react-icons/ai'
