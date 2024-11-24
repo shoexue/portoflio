@@ -23,7 +23,8 @@ const About = () => {
                             <span className='primary-text'> Me</span>
                         </h3>
                         <p className='text-justify leading-7 w-11/12 mx-auto'>
-                            Hi! My name is Justin. I previously worked at Blackberry where 
+                            Hi! My name is Justin and I'm a 2nd year student at McGill majoring in computer science. 
+                            I had the opportunity to work at Blackberry in the summer of 2024 where 
                             I focused on low level design and embedded systems. Despite that,  
                             my interest are very diverse and I love learning new things! On  
                             the side I do fullstack development, game design, and scripting. 
