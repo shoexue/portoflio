@@ -1,6 +1,6 @@
 import React from 'react'
 import profilepic from '../assets/ship_5.svg'
-import cv from '../assets/JustinXueResume4.pdf'
+import cv from '../assets/JustinXueResume_2025.pdf'
 
 import {AiFillLinkedin, AiFillGithub} from 'react-icons/ai'
 import { SiDevpost } from "react-icons/si";
