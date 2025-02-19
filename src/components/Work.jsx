@@ -6,7 +6,7 @@ import proj4 from '../assets/proj_4.png'
 import proj5 from '../assets/proj_5.png'
 import proj6 from '../assets/proj_6.png'
 import proj7 from '../assets/proj_7.png'
-
+import proj8 from '../assets/proj_8.png'
 const Work = () => {
   return (
     <div class='mt-5 py-6 max-w-[1200px] mx-auto ' id='projects'>
@@ -50,6 +50,10 @@ const Work = () => {
                 </a>
                 <a href="https://dorahacks.io/buidl/20359/" class="group h-48 overflow-hidden rounded-lg shadow-lg md:h 80">
                     <img src={proj7} alt="" class="h-full w-full object-cover object-center transition
+                                                    duration-200 group-hover:scale-110"/>
+                </a>
+                <a href="https://devpost.com/software/cloudq?ref_content=my-projects-tab&ref_feature=my_projects" class="group h-48 overflow-hidden rounded-lg shadow-lg md:h 80">
+                    <img src={proj8} alt="" class="h-full w-full object-cover object-center transition
                                                     duration-200 group-hover:scale-110"/>
                 </a>
             </div>
